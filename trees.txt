@@ -1,4 +1,4 @@
 oak 
 pine
 Betula
-Fir
+Cottonwood 
