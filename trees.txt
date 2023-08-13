@@ -3,3 +3,4 @@ pine
 Betula
 Cottonwood
 Eastern redbud 
+Maple trees
